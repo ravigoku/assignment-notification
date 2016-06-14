@@ -51,19 +51,19 @@ and output a datetime object from 'Month','Day, and 'Year') """
 # Twilio Information
 #===============================================================================
 
-accountSID = 'AC6943252ee143e4ffb3c6539041e6073a'
-authToken = 'ba86aa1a35c6e74b227349128e65fec0'
+accountSID = 
+authToken
 
-myTwilioNumber = '+17329976014'
+myTwilioNumber 
 twilioCli = TwilioRestClient(accountSID,authToken)
 
 #===============================================================================
 # Fixed Program Variables
 #===============================================================================
 clientName = "Pat"
-clientCellPhone = "+17323280605"
+clientCellPhone =
 userName= "Ravi"
-myCellPhone = '+17323280605'
+myCellPhone = 
 
 #===============================================================================
 # Set Dates
